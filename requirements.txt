@@ -1,5 +1,8 @@
+gspread
+google-auth
 requests
 pandas
 numpy
-gspread
-google-auth
+yfinance
+pandas-ta
+openpyxl
