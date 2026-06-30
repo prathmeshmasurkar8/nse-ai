@@ -1,2 +1,0 @@
-# NSE AI
-Starter project.
